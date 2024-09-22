@@ -1,8 +1,5 @@
 // move_semantics1.rs
-//
-// Execute `rustlings hint move_semantics1` or use the `hint` watch subcommand
-// for a hint.
-
+// 执行 `rustlings hint move_semantics1` 或在观察模式下使用 `hint` 子命令来获取提示。
 
 fn main() {
     let vec0 = Vec::new();
